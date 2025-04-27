@@ -1,9 +1,12 @@
-# How to wrap up any of your interivews?
-### Must ask following in the mentioned order
+# How to wrap up any of your interviews?
+### Must ask the following in the mentioned order
 
-- Is there anything that you see as a potential dealbreaker? Feel free to explicitly mention that as I have the floor to clarify that now.
-- What are you impressions about our discussion over the past X minutes?
-- I kindly ask you to provide as comprehensive feedback as possible, as it will be my main takeaway that will help me self reflect and become a betterself.
+- Do you see anything as a potential dealbreaker? Feel free to explicitly mention that, as I have the floor to clarify that now.
+- Could you tell me your impressions about our discussion over the past X minutes?
+- I kindly ask you to provide as comprehensive feedback as possible, as it will be my main takeaway that will help me self-reflect and become a better self.
+
+- How long have you been working here?
+- What do you like most about working here?
 
 # Questions to ask from the interviewer (HM/EM/TL)
 
